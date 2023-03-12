@@ -1,0 +1,24 @@
+.header
+{
+    margin-right: 60px;
+}
+.HeaderTitles
+{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    font-family: 'Lora', serif;
+    color:wheat;
+}
+.HeaderTitlesm
+{
+    position:absolute;
+    top: 18%;
+    font-style: 20px;
+}
+
+.HeaderTitlelg{
+    position:absolute;
+    top: 22%;
+    font-size: 30px;
+}
